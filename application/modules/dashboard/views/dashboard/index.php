@@ -28,7 +28,7 @@
                     <div class="row no-gutters align-items-center">
                         <div class="col mr-2">
                             <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
-                                Pemasukan Kas Hari Ini</div>
+                                Pemasukan Kas Hari Ini ..</div>
                             <div class="h5 mb-0 font-weight-bold text-gray-800">Rp. <?= num_id($pemasukan_kas['jumlah_transaksi']) ?></div>
                         </div>
                         <div class="col-auto">
